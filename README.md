@@ -1,4 +1,4 @@
 leap
 ====
 
-Leap Motion drivers for dart
+Leap Motion drivers in dart
